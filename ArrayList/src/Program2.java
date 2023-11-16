@@ -1,3 +1,4 @@
+//Write a Java program to iterate through all elements in an array list.
 import java.util.ArrayList;
 class Program2 {
     public static void main(String[] args) {

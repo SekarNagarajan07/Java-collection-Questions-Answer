@@ -1,5 +1,7 @@
-import java.util.ArrayList;
+// Write a Java program to create a new array list, add some colors (string) and print out the
+//collection.
 
+import java.util.ArrayList;
 class Program1 {
     public static void main(String[] args) {
         // Create a new ArrayList to store colors
