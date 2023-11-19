@@ -13,7 +13,7 @@ public class Program15 {
         list1.add("Banana");
         list1.add("Orange");
 
-        // Add elements to the second ArrayList
+        // Add elements to the second ArrayList.
         list2.add("Grapes");
         list2.add("Cherry");
         list2.add("Mango");
