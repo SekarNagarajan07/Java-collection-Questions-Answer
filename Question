@@ -37,10 +37,9 @@ elements.
 8. Write a Java program to convert a hash set to a tree set.
 9. Write a Java program to convert a hash set to a List/Array List.
 10. Write a Java program to compare two hash set.
-11. Write a Java program to compare two sets and retain elements which are same on both
-                                    sets.
-
+11. Write a Java program to compare two sets and retain elements which are same on both sets.
 12. Write a Java program to remove all of the elements from a hash set.
+
                                Tree Set Exercises
 
 1. Write a Java program to create a new tree set, add some colors (string) and print out the
